@@ -1,5 +1,5 @@
 # JokeServers
-Synchronous and Asynchronous Server Implementations Using Java .NET Sockets
+Synchronous and Asynchronous Server Implementations Using Java Sockets
 
 Synchronous version is single-threaded blocking using one worker over a shared server socket stream.
 
